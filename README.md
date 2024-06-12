@@ -1,4 +1,4 @@
-                                                          # Hi, I'm Sneh Namdev! 👋
+                                                          ## Hi, I'm Sneh Namdev! 👋
 
 
 
@@ -9,17 +9,6 @@ This portfolio showcases the Data Analysis projects I have completed for academi
 🎓 **Education:**  
 - Post Graduate Diploma in Management  
 - Bachelor's Degree in Civil Engineering  
-
-🔧 **Tools and Skills:**  
-- **Excel:** Pivots, Charts, Lookups, Power Query, Power Pivot, Functions and Formulas, Conditional Formatting  
-- **Power BI:** ETL, DAX, Buttons, Bookmarks, Filters, Field Parameters, Power BI Service, Data Visualizations  
-- **SQL:** DDL, DML, Joins, Subqueries, Case, Aggregations  
-- **Python:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Soft Skills:** Critical Thinking, Detail Orientation, Problem Solving, Communication, Presentation, Curiosity, Fast Learning, Independence, Self-Motivation  
-
-🛠 **Experience:**  
-- Business Analyst Intern at GA Library (3 months)  
-- Data Analyst Intern at COD TECH IT SOLUTIONS  
 
 📊 **Core Competencies:**  
 - Data Analysis & Reporting  
