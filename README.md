@@ -1,37 +1,46 @@
-Hi I am Sneh Namdev👋.
+# Hi, I'm Sneh Namdev! 👋
 
-As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
+___________________________________________________________________________________________________________________________________________________________________________________________
 
-I've recently completed 3-month Business Analyst Internship at GA Library and currently working as a Data Analyst Intern at COD TECH IT SOLUTIONS.
+As a curious Data Analyst, I bring expertise in Spreadsheets, SQL, R, Python, and Power BI. My strong communication, problem-solving, and critical thinking skills help me make a positive difference through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow.
 
-My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Power BI and R Programming Language.
+This portfolio showcases the Data Analysis projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
 
+🎓 **Education:**  
+- Post Graduate Diploma in Management  
+- Bachelor's Degree in Civil Engineering  
+
+🔧 **Tools and Skills:**  
+- **Excel:** Pivots, Charts, Lookups, Power Query, Power Pivot, Functions and Formulas, Conditional Formatting  
+- **Power BI:** ETL, DAX, Buttons, Bookmarks, Filters, Field Parameters, Power BI Service, Data Visualizations  
+- **SQL:** DDL, DML, Joins, Subqueries, Case, Aggregations  
+- **Python:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Soft Skills:** Critical Thinking, Detail Orientation, Problem Solving, Communication, Presentation, Curiosity, Fast Learning, Independence, Self-Motivation  
+
+🛠 **Experience:**  
+- Business Analyst Intern at GA Library (3 months)  
+- Data Analyst Intern at COD TECH IT SOLUTIONS  
+
+📊 **Core Competencies:**  
+- Data Analysis & Reporting  
+- Data Preparation & Visualization  
+- Requirement Gathering & Modeling  
+
+📝 **Articles:**  
 I regularly write articles on LinkedIn.
 
-I have a Post Graduate Diploma in Management Followed by Bachelor's Degree in Civil Engineering.
+---
 
-**Core Competencies**
+## Projects
 
-Functional Areas– Data Analysis & Reporting, Data Preparation & Visualization, Requirement Gathering & Modeling 
+### Healthcare Dashboard
+Explored and analyzed patient data from 2015 to 2021 using Excel and Power BI. Gained insights into medical data, financial data, demographics, and insurance data. Analyzed cost weight per patient, segmented patients, performed RFM Analysis, and created data visuals and dashboards. Provided data-driven insights and actionable recommendations for management.
 
-Excel – Pivots, Charts, Lookups, Power Query, Power Pivot, Functions and Formulas, Conditional Formatting
+### Sales & Commission of Travel Insurance
+Analyzed sales and commission data to help insurance companies gain insights into market preferences and customer demographics. Optimized sales strategies, tailored insurance offerings, enhanced customer satisfaction and retention, and improved risk management practices. Contributed to making travel insurance more responsive to travelers' needs and preferences.
 
-Power BI – Extract, Transform and Load (ETL),DAX, Buttons, Bookmarks, Filters, Field Parameters,Power BI Service,Data findings through Visualizations
+---
 
-SQL– Data Definition Language (DDL), Data Manipulation Language (DML), Joins, Subquery, Case, Aggregatation   
+Let's connect and explore the world of data together! 🚀
 
-Python- Numpy,Pandas,Matplotlib,Seaborn.
-
-Soft Skills: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Presentation Skills, Inherently Curious, Fast Learner, Independent and Self Motivated.
-
-
-
-**Projects**
-
-Healthcare Dashboard
-
-In this project I've explored and analyzed Patient data of a hospital from 2015 to 2021 to gain insights into,Healthcare data sets include a vast amount of medical data, various measurements, financial data, statistical data, demographics of specific populations, and insurance data,Using Excel and Power BI, I analyzed Cost Weight per patient for every year, segmented the Patients, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams to track the high priority cases.
-
-Sales & Commision of Travel Insurance sales
-
-With This assignment, insurance companies can gain insights into market preferences and customer demographics, optimize sales strategies and tailor insurance offerings, enhance customer satisfaction and retention, improve risk management practices and mitigate losses effectively. Through these benefits, this analysis contributes to making travel insurance more responsive to travelers needs and preferences.
+---
