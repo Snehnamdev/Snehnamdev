@@ -27,8 +27,11 @@ Soft Skills: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal an
 
 
 **Projects**
+
 Healthcare Dashboard
+
 In this project I've explored and analyzed Patient data of a hospital from 2015 to 2021 to gain insights into,Healthcare data sets include a vast amount of medical data, various measurements, financial data, statistical data, demographics of specific populations, and insurance data,Using Excel and Power BI, I analyzed Cost Weight per patient for every year, segmented the Patients, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams to track the high priority cases.
 
 Sales & Commision of Travel Insurance sales
+
 With This assignment, insurance companies can gain insights into market preferences and customer demographics, optimize sales strategies and tailor insurance offerings, enhance customer satisfaction and retention, improve risk management practices and mitigate losses effectively. Through these benefits, this analysis contributes to making travel insurance more responsive to travelers needs and preferences.
