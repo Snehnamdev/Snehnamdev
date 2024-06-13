@@ -1,4 +1,4 @@
-                                                          ##Hi👋,I am Sneh Namdev   **Education:**  
+                                                            Hi👋,I am Sneh Namdev  
 
 
 
