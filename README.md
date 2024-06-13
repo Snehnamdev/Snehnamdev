@@ -1,4 +1,4 @@
-                                                          **Hi👋,I am Sneh Namdev** Analysis for Travel Insurance Sales
+                                                          **Hi👋,I am Sneh Namdev**
 
 
 
