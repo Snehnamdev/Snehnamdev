@@ -1,4 +1,4 @@
-                                                          ## Hi, I'm Sneh Namdev! 👋
+                                                           **Hi👋, I am Sneh Namdev**   
 
 
 
@@ -14,19 +14,6 @@ This portfolio showcases the Data Analysis projects I have completed for academi
 - Data Analysis & Reporting  
 - Data Preparation & Visualization  
 - Requirement Gathering & Modeling  
-
-📝 **Articles:**  
-I regularly write articles on LinkedIn.
-
----
-
-## Projects
-
-### Healthcare Dashboard
-Explored and analyzed patient data from 2015 to 2021 using Excel and Power BI. Gained insights into medical data, financial data, demographics, and insurance data. Analyzed cost weight per patient, segmented patients, performed RFM Analysis, and created data visuals and dashboards. Provided data-driven insights and actionable recommendations for management.
-
-### Sales & Commission of Travel Insurance
-Analyzed sales and commission data to help insurance companies gain insights into market preferences and customer demographics. Optimized sales strategies, tailored insurance offerings, enhanced customer satisfaction and retention, and improved risk management practices. Contributed to making travel insurance more responsive to travelers' needs and preferences.
 
 ---
 
