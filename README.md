@@ -1,4 +1,4 @@
-                                                         # Hi👋,I am Sneh Namdev
+# Hi👋,I am Sneh Namdev
 
 
 
